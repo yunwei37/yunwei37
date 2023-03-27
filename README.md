@@ -1,6 +1,6 @@
 ## Hi
 
-This is 云微:
+This is 云微（yunwei37），a prompt engineer:
 
 - 😄 Keep curiosity about everything
 - 🌱 I’m currently interested in computer systems/static analysis
