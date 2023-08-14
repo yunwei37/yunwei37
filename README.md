@@ -17,7 +17,7 @@
 
 <p align="center">
 <!--   <a href="link-to-your-LinkedIn">LinkedIn</a> •  -->
-  <a href="link-to-your-Twitter">Twitter</a> • 
+  <a href="https://twitter.com/yunwei37">Twitter</a> • 
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
   <a href="https://medium.com/@yunwei356">Blog in Medium</a> • 
   <a href="https://www.producthunt.com/@yunwei_123">producthunt</a> • 
