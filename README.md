@@ -7,7 +7,7 @@
 - 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
 - 🖥 **Interests:** Focused on computer systems & static analysis & prompt engineering
 - 😄 **Motto:** Coding isn't just a profession, it's fun!
-- 📖 **Website:** Check out my personal website [www.yunwei123.tech](https://www.yunwei123.tech/) and my blog posts at [eunomia.dev](https://eunomia.dev/blogs)
+- 📖 **Website:** Check out my personal website [www.yunwei37.com](https://www.yunwei37.com/) and my blog posts at [eunomia.dev](https://eunomia.dev/blogs)
 
 ---
 
