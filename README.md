@@ -1,13 +1,13 @@
 <h2 align="center">Hello, I'm 云微 (yunwei37) 👋</h2>
 
-<p align="center">A passionate engineer driven by curiosity and the joy of coding.</p>
+<p align="center">A passionate engineer driven by curiosity and the joy of creating.</p>
 
 ---
 
 - 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
-- 🖥 **Interests:** Focused on computer systems & programming languages & LLM and AI agents
-- 😄 **Motto:** Coding isn't just a profession, it's fun!
-- 📖 **Website:** Check out my personal website [www.yunwei37.com](https://www.yunwei37.com/) and my blog posts at [eunomia.dev](https://eunomia.dev/blogs)
+- 🖥 **Interests:** Computer systems & programming languages & LLM and AI agents. I love building complex things, unfortunately, math makes me sleepy. AI is definately the future, but the infrastructure is what it relies on. It's an honor if I can be a bootloader of it.
+- 😄 **Motto:** I know nothing about the world and I'm quite stupid, but will keep learning and sharing in the public. The brave new world is never boring.
+- 📖 **Website:** Check out my personal website [www.yunwei37.com](https://www.yunwei37.com/) and my blog posts at [eunomia.dev/blogs](https://eunomia.dev/blogs)
 
 ---
 
