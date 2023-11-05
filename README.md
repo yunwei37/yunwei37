@@ -21,8 +21,8 @@
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
   <a href="https://medium.com/@yunwei356">Blog in Medium</a> • 
   <a href="https://www.producthunt.com/@yunwei_123">producthunt</a> • 
-  <a href="https://www.zhihu.com/people/yun-wei-64-11">知乎</a> • 
-  <a href="https://github.com/yunwei37/yunwei37/blob/master/CV_zys_2023_10_30.pdf">My resume</a>
+  <a href="https://www.zhihu.com/people/yun-wei-64-11">知乎</a>
+  
 </p>
 
 <a href="https://github.com/yunwei37">
