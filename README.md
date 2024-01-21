@@ -13,7 +13,7 @@
 
 My works and presentations:
 
-- "bpftime: Fast uprobes with user space BPF runtime" at Linux Plumbers Conference 2023: https://lpc.events/event/17/abstracts/1741/
+- "bpftime: Fast uprobes with user space BPF runtime" at Linux Plumbers Conference 2023: https://lpc.events/event/17/contributions/1639/
 - "eBPF + Wasm: Lightweight Observability on Steroids" at KubeCon North American 2023: https://sched.co/1R2uf
 
 ---
