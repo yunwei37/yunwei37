@@ -5,7 +5,7 @@
 ---
 
 - 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
-- 🖥 **Interests:** Computer systems & programming languages & LLM and AI agents. I love building complex things, unfortunately, too much math often makes me sleepy. AI is definately the future, but the infrastructure is what it relies on. It's an honor if I can be a bootloader of it.
+- 🖥 **Interests:** Computer systems & programming languages. I love building complex things, unfortunately, too much math often makes me sleepy.
 - 😄 **Motto:** I know nothing about the world and I'm quite stupid, but will keep learning and sharing in the public. The brave new world is never boring.
 - 📖 **Website:** Check out my personal website [www.yunwei37.com](https://www.yunwei37.com/) and my blog posts at [eunomia.dev/blogs](https://eunomia.dev/blogs)
 
