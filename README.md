@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer who finds joy in building and exploring. I’m kicking off my PhD journey at UCSC under the guidance of [Andrew R. Quinn](https://arquinn.github.io/) in 2024.
+I'm a curious developer who finds joy in building and exploring. I’m kicking off my PhD journey at UCSC under the guidance of [Andrew R. Quinn](https://arquinn.github.io/) in 2024. **looking for potential intern positions in the summer of 2025!**
 
 ---
 
