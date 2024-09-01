@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer who finds joy in building and exploring. I’m kicking off my PhD journey at UCSC under the guidance of [Andrew R. Quinn](https://arquinn.github.io/) in 2024. **looking for potential intern positions in the summer of 2025!**
+I'm a curious developer who finds joy in building and exploring. I’m starting my PhD journey at UCSC under the guidance of [Andrew R. Quinn](https://arquinn.github.io/) in 2024. **looking for potential intern positions in the summer of 2025!** 
 
 ---
 
@@ -19,6 +19,8 @@ Some of my works and presentations:
 - "eBPF + Wasm: Lightweight Observability on Steroids" at [KubeCon North American 2023](https://sched.co/1R2uf) and also [Arxiv](https://arxiv.org/abs/2408.04856v1)
 - "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
 - "eunomia-bpf: Lightweight Development Framework for eBPF and Wasm" at [Apsara Conference 2022](https://www.alibabacloud.com/blog/eunomia-bpf-the-lightweight-development-framework-for-ebpf-and-webassembly-is-now-available_599688)
+
+I got my Bachelor's degree from Zhejiang University. I was awarded the "Open Source Innovation Pioneer Award (开源创新先锋奖)" at the [Open Source Operating System Annual Technical Conference 10th](https://os2atc.cn/award.html) for contributing to the open-source community. I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
 ---
 
