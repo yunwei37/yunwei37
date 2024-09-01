@@ -1,33 +1,37 @@
-<h2 align="center">Hello, I'm 云微 (yunwei37) 👋</h2>
 
-<p align="center">A passionate engineer driven by curiosity and the joy of creating.</p>
 
----
+<h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-- 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
-- 🖥 **Interests:** Computer systems & programming languages. I love building complex things, unfortunately, too much math often makes me sleepy.
-- 😄 **Motto:** I know nothing about the world and I'm quite stupid, but will keep learning and sharing in the public. The brave new world is never boring.
-- 📖 **Website:** Check out my personal website [www.yunwei37.com](https://www.yunwei37.com/) and my blog posts at [eunomia.dev/blogs](https://eunomia.dev/blogs)
+I'm a curious developer who finds joy in building and exploring. I’m kicking off my PhD journey at UCSC under the guidance of [Andrew R. Quinn](https://arquinn.github.io/) in 2024.
 
 ---
 
-My works and presentations:
+- 🚀 **Curiosity:** I know nothing about the world and I'm quite stupid, but I’m endlessly fascinated by how things work and how they can be made better.
+- 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). I’m excited to push the limits of what’s possible with tools like eBPF. The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
+- 🌟 **Projects:** I’m the creator of the [eunomia-bpf](https://github.com/eunomia-bpf) organization, where I work on eBPF tools and runtimes. I believe that eBPF has the potential to be incredibly powerful, not just on Linux but across all systems. Can we make that a reality? I’m committed to exploring how.
+- 📝 **Writing:** I regularly share my thoughts and learnings on my blogs at [eunomia.dev/blogs](https://eunomia.dev/blogs) and [www.yunwei37.com](https://www.yunwei37.com/). It’s where I discuss my latest projects and ideas, especially around how LLMs and eBPF can revolutionize our tech landscape.
 
-- "bpftime: Fast uprobes with user space BPF runtime" at Linux Plumbers Conference 2023: https://lpc.events/event/17/contributions/1639/
-- "eBPF + Wasm: Lightweight Observability on Steroids" at KubeCon North American 2023: https://sched.co/1R2uf
+---
+
+Some of my works and presentations:
+
+- "bpftime: Fast uprobes with userspace BPF runtime" at [Linux Plumbers Conference 2023](https://lpc.events/event/17/abstracts/1741/)
+- "eBPF + Wasm: Lightweight Observability on Steroids" at [KubeCon North American 2023](https://sched.co/1R2uf) and also [Arxiv](https://arxiv.org/abs/2408.04856v1)
+- "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
+- "eunomia-bpf: Lightweight Development Framework for eBPF and Wasm" at [Apsara Conference 2022](https://www.alibabacloud.com/blog/eunomia-bpf-the-lightweight-development-framework-for-ebpf-and-webassembly-is-now-available_599688)
 
 ---
 
 <h4 align="center">
-  Let's connect and collaborate! 🌐
+  Let’s connect and collaborate! 🌐
 </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusheng-zheng-611920280/">LinkedIn</a> • 
   <a href="https://twitter.com/yunwei37">Twitter</a> • 
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
-  <a href="https://medium.com/@yunwei356">Blog in Medium</a> • 
-  <a href="https://www.producthunt.com/@yunwei_123">producthunt</a> • 
+  <a href="https://medium.com/@yunwei356">Medium Blog</a> • 
+  <a href="https://www.producthunt.com/@yunwei_123">Product Hunt</a> • 
   <a href="https://www.zhihu.com/people/yun-wei-64-11">知乎</a>
   
 </p>
@@ -49,4 +53,3 @@ My works and presentations:
 
 </div>
 
--->
