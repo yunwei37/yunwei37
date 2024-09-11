@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer who finds joy in building and exploring.
+I'm a curious developer who finds joy in building and exploring. **looking for potential intern positions in the summer of 2025!** 
 
 ---
 
