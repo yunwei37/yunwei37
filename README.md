@@ -2,9 +2,14 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer who finds joy in building and exploring. **looking for potential intern positions in the summer of 2025!** 
+I'm a curious developer who finds joy in building and exploring. 
+
+- **Looking for intern positions and industry consultants!**
+- **Open to academic collaborations! Would be very happy if we could work together on eBPF or LLM!** 
 
 ---
+
+Want to know more about me...?
 
 - 🚀 **Curiosity:** I know nothing about the world and I'm quite stupid, but I’m endlessly fascinated by how things work and how they can be made better.
 - 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). I’m excited to push the limits of what’s possible with tools like eBPF. The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
