@@ -4,7 +4,7 @@
 
 I'm a curious developer who finds joy in building and exploring. 
 
-- **Looking for intern positions and industry consultants!**
+- **Looking for consultants works!**
 - **Open to academic collaborations! Would be very happy if we could work together on eBPF or LLM!** 
 
 ---
