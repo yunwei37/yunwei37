@@ -5,7 +5,9 @@
 I'm a curious developer who finds joy in building and exploring. 
 
 - **Looking for consultants works!**
-- **Open to academic collaborations! Would be very happy if we could work together on eBPF or LLM!** 
+- **Open to academic collaborations!**
+- **Or just open source connections! Would be very happy if we could work together on eBPF or LLM!** 
+- **interested in my projects? Want to chat about new ideas? Need some help? Feel free to connect me!**
 
 ---
 
