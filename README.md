@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer/explorer/founder who finds joy in building and exploring. 
+I'm a curious developer who finds joy in building and exploring. I'm also learning to be a researcher, writer, Growth hacker and indie hacker.
 
 - **Happy to offer consulting services！**
 - **Open to academic collaborations!**
