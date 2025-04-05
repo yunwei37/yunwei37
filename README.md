@@ -4,8 +4,6 @@
 
 I'm a curious developer who finds joy in building and exploring. As a PhD student advised by [Andrew R. Quinn](https://arquinn.github.io/), I'm also learning to be a researcher, writer and indie hacker.
 
-
-- Happy to offer consulting services!
 - Hope we can collaborate!
 - Open to open-source connections. Would be excited to work with you on eBPF or LLM!
 - Interested in my projects? Want to chat about new ideas? Need help? Feel free to connect with me!
