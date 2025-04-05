@@ -23,6 +23,8 @@ Want to know more about me...?
 
 Some of my works and presentations:
 
+- **Our Paper "Extending Applications Safely and Efficiently" Got accepted by OSDI'25!**
+- "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
 - Panel Discussion: eBPF: A New Era in Cloud Infrastructure Tools in [OSS summit Europe 24](https://sched.co/1ej2B@sched)
 - "bpftime: Userspace eBPF Runtime for Network and Observability" at [eBPF summit 2024](https://ebpf.io/summit-2024-schedule/)
 - "bpftime: Fast uprobes with userspace BPF runtime" at [Linux Plumbers Conference 2023](https://lpc.events/event/17/abstracts/1741/)
