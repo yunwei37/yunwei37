@@ -21,7 +21,7 @@ Want to know more about me...?
 
 Some of my works and presentations:
 
-- **Our Paper "Extending Applications Safely and Efficiently" Got accepted by OSDI'25!**
+- **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
 - "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
 - Panel Discussion: eBPF: A New Era in Cloud Infrastructure Tools in [OSS summit Europe 24](https://sched.co/1ej2B@sched)
 - "bpftime: Userspace eBPF Runtime for Network and Observability" at [eBPF summit 2024](https://ebpf.io/summit-2024-schedule/)
