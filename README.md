@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Yusheng Zheng (yunwei37/云微) 👋</h2>
 
-I'm a curious developer who finds joy in building and exploring. As a PhD student advised by [Andrew R. Quinn](https://arquinn.github.io/), I'm also learning to be a researcher, writer and indie hacker.
+I'm a curious developer who finds joy in building and exploring. As a PhD student advised by [Andi. Quinn](https://arquinn.github.io/), I'm also learning to be a researcher, writer and indie hacker.
 
 - Hope we can collaborate!
 - Open to open-source connections. Would be excited to work with you on eBPF or LLM!
