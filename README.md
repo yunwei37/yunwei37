@@ -40,7 +40,6 @@ I got my Bachelor's degree from Zhejiang University. I was awarded the "Open Sou
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusheng-zheng-611920280/">LinkedIn</a> • 
-  <a href="https://twitter.com/yunwei37">Twitter</a> • 
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
   <a href="https://medium.com/@yunwei356">Medium Blog</a> • 
   <a href="https://www.producthunt.com/@yunwei_123">Product Hunt</a> • 
