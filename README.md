@@ -49,7 +49,8 @@ I got my Bachelor's degree from Zhejiang University. I was awarded the "Open Sou
 
 <p align="center">
   Wechat (微信）: yunwei2567  • 
-  QQ: 1067852565
+  QQ: 1067852565  • 
+  Email: yunwei356@gmail.com
 </p>
 
 <a href="https://github.com/yunwei37">
