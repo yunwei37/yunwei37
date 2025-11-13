@@ -19,15 +19,20 @@ Want to know more about me...?
 
 ---
 
-Some of my works and presentations:
+Some of my papers:
 
 - **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
+- "Towards Agentic OS: An LLM Agent Framework for Linux Schedulers" at [MLforsystem workshop'25](https://arxiv.org/html/2509.01245v4)
+- "AgentSight: System-Level Observability for AI Agents Using eBPF" at [PACMI'25](https://dl.acm.org/doi/10.1145/3766882.3767169), the project is [https://github.com/eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agent-tracer
+- "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
+
+Presentations:
+
 - "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
 - Panel Discussion: eBPF: A New Era in Cloud Infrastructure Tools in [OSS summit Europe 24](https://sched.co/1ej2B@sched)
 - "bpftime: Userspace eBPF Runtime for Network and Observability" at [eBPF summit 2024](https://ebpf.io/summit-2024-schedule/)
 - "bpftime: Fast uprobes with userspace BPF runtime" at [Linux Plumbers Conference 2023](https://lpc.events/event/17/abstracts/1741/)
 - "eBPF + Wasm: Lightweight Observability on Steroids" at [KubeCon North American 2023](https://sched.co/1R2uf) and also [Arxiv](https://arxiv.org/abs/2408.04856v1)
-- "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
 - "eunomia-bpf: Lightweight Development Framework for eBPF and Wasm" at [Apsara Conference 2022](https://www.alibabacloud.com/blog/eunomia-bpf-the-lightweight-development-framework-for-ebpf-and-webassembly-is-now-available_599688)
 
 I got my Bachelor's degree from Zhejiang University. I was awarded the "Open Source Innovation Pioneer Award (开源创新先锋奖)" at the [Open Source Operating System Annual Technical Conference 10th](https://os2atc.cn/award.html) for contributing to the open-source community. I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
