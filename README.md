@@ -24,6 +24,7 @@ Some of my papers:
 - **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
 - "Towards Agentic OS: An LLM Agent Framework for Linux Schedulers" at [MLforsystem workshop'25](https://arxiv.org/html/2509.01245v4)
 - "AgentSight: System-Level Observability for AI Agents Using eBPF" at [PACMI'25](https://dl.acm.org/doi/10.1145/3766882.3767169), the project is [https://github.com/eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agent-tracer)
+- "uXDP: Frictionless XDP Deployments in Userspace" at [eBPF'25](https://dl.acm.org/doi/10.1145/3748355.3748360), thanks Marios Kogias a lot for teaching me how to do research!
 - "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
 
 Presentations:
