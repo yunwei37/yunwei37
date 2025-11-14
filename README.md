@@ -13,7 +13,7 @@ I'm a curious developer who finds joy in building and exploring. As a PhD studen
 Want to know more about me...?
 
 - 🚀 **Curiosity:** I know nothing about the world and quite stupid(At least much stupider than AI!), but I’m endlessly fascinated by how things work and how they can be better.
-- 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). I’m excited to push the limits of what’s possible with tools like eBPF. The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
+- 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). I’m excited to push the limits of what’s possible with tools like eBPF. The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems.
 - 🌟 **Projects:** I’m the creator of the [eunomia-bpf](https://github.com/eunomia-bpf) organization, where I work on eBPF tools and runtimes. I believe that eBPF has the potential to be incredibly powerful, not just on Linux but across all systems. Can we make that a reality? I’m committed to exploring how.
 - 📝 **Writing:** I regularly share my thoughts and learnings at [eunomia.dev](https://eunomia.dev) and [www.yunwei37.com](https://www.yunwei37.com/). It’s where I discuss my latest projects and ideas, especially around how LLMs and eBPF can revolutionize our tech landscape.
 
