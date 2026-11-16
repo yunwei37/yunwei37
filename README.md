@@ -22,9 +22,11 @@ Want to know more about me...?
 
 Some of my papers:
 
-- "[gpu_ext: Safe and Programmable OS-Level GPU Resource Management with eBPF](https://doi.org/10.1145/3845814.3850045)" at **ASPLOS 2027** (co-first author).
-- "[BPF-Ext: Safely Extending the eBPF Compilation Pipeline with Native Operations](https://doi.org/10.1145/3828523.3857078)" at **ATC 2026** (co-first author).
-- "[SysOM-AI: Continuous Cross-Layer Performance Diagnosis for Production AI Training](https://arxiv.org/abs/2603.29235)" (2026, co-first author): continuous cross-layer diagnosis deployed by Alibaba collaborators across 80K+ GPUs, helping diagnose 94 confirmed production issues with less than 0.4% overhead.
+- "[gpu_ext: Safe and Programmable OS-Level GPU Resource Management with eBPF](https://doi.org/10.1145/3845814.3850045)" at **ASPLOS 2027**.
+- "[BPF-Ext: Safely Extending the eBPF Compilation Pipeline with Native Operations](https://doi.org/10.1145/3828523.3857078)" at **ATC 2026**.
+- "[SysOM-AI: Continuous Cross-Layer Performance Diagnosis for Production AI Training](https://arxiv.org/abs/2603.29235)" (2026): continuous cross-layer diagnosis deployed by Alibaba collaborators across 80K+ GPUs, helping diagnose 94 confirmed production issues with less than 0.4% overhead.
+- "[AgentPProf: Semantic Profiler for Long Horizon AI Agents](https://arxiv.org/abs/2609.20301)" (2026). [Code](https://github.com/eunomia-bpf/agentsight)
+- "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)" (2026). [Code](https://github.com/eunomia-bpf/agentcgroup)
 - **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
 - "Towards Agentic OS: An LLM Agent Framework for Linux Schedulers" at [MLforsystem workshop'25](https://arxiv.org/html/2509.01245v4)
 - "AgentSight: System-Level Observability for AI Agents Using eBPF" at [PACMI'25](https://dl.acm.org/doi/10.1145/3766882.3767169), the project is [https://github.com/eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight)
