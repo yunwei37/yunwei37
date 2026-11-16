@@ -35,10 +35,10 @@ Some of my papers:
 
 Presentations:
 
-- "[Co-evolving OS Infrastructure with Agents through Runtime Extensions](https://yunwei37.com/presentation/ipads-harness-2026/)" — IPADS Young Scholars Forum, Agent Harness (October 16, 2026).
-- "[Safely Optimizing eBPF for Hardware and Workloads](https://yunwei37.com/presentation/lpc2026-kinsn/)" — Linux Plumbers Conference 2026, eBPF Track (October 5, 2026).
-- "[LLM Agent Capabilities Should Follow Task Intent and Context Source](https://yunwei37.com/presentation/agentcap/)" (IntentCap) — AgenticOS 2026 (September 29, 2026).
-- "[NCCLbpf: Verified Policies for GPU Collectives](https://yunwei37.com/presentation/ncclbpf/)" — eBPF '26 (September 24, 2026).
+- "[Co-evolving OS Infrastructure with Agents through Runtime Extensions](https://yunwei37.com/presentation/ipads-harness-2026/)" — IPADS Young Scholars Forum, Agent Harness 2026.
+- "[Safely Optimizing eBPF for Hardware and Workloads](https://yunwei37.com/presentation/lpc2026-kinsn/)" — Linux Plumbers Conference 2026, eBPF Track.
+- "[LLM Agent Capabilities Should Follow Task Intent and Context Source](https://yunwei37.com/presentation/agentcap/)" (IntentCap) — AgenticOS 2026.
+- "[NCCLbpf: Verified Policies for GPU Collectives](https://yunwei37.com/presentation/ncclbpf/)" — eBPF '26.
 - "[Fork, Explore, Commit: OS Primitives for Agentic Exploration](https://yunwei37.com/presentation/branchcontext/)" — Agentic OS Workshop, ASPLOS 2026.
 - "[ACRFence: Preventing Semantic Rollback Attacks in Agent Checkpoint-Restore](https://yunwei37.com/presentation/acr-fence/)" — CoDAIM 2026 Workshop.
 - "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
